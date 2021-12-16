@@ -2,7 +2,7 @@
 
 ### 𝐃𝐚𝐫𝐤 ✘ 𝐌𝐮𝐬𝐢𝐜 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="https://telegra.ph/file/30868ddf51d5599e8c777" width="300"></a></p>
+<p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="https://telegra.ph/file/e5f8072af8b13ccb1628a.jpg" width="300"></a></p>
 
 
 
