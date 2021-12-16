@@ -1,4 +1,4 @@
-<h1 align="centre">🎶 ALONE-PLAYER 🎶</h1>
+<h1 align="centre">⚡𝐀𝐋𝐎𝐍𝐄 𝐕𝐂⚡</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
