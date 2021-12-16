@@ -37,7 +37,8 @@ Click the below button to watch the video tutorial on deploying
 
 ###  GET STRING SESSION FROM REPL RUN
 
- <p><a href="https://replit.com/@AdityaHalder/PyrogramStringSession#main.py"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+ <p><a href="https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Sumit9969/GenrateStringSession)
+"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 ### Features✨
 
@@ -62,7 +63,7 @@ Click the below button to watch the video tutorial on deploying
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/PRONOI/ALONE-PLAYER
-$ cd ALONE-PLAYER
+$ cd 
 # Upgrade sources
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
