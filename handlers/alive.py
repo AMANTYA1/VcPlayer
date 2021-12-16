@@ -59,7 +59,7 @@ async def start_(client: Client, message: Message):
 @Client.on_message(commandpro(["/start", "/alive", "Sumit"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/30868ddf51d5599e8c777.jpg",
+        photo=f"https://telegra.ph/file/e5f8072af8b13ccb1628a.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -72,7 +72,7 @@ async def start(client: Client, message: Message):
     )
 
 
-@Client.on_message(commandpro(["DarkxMusic","Sumit", "#Channel", "@Channel", "/Channel", "Channel"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["ALONExMUSIC","ALONE", "#Channel", "@Channel", "/Channel", "Channel"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/e5f8072af8b13ccb1628a.jpg",
