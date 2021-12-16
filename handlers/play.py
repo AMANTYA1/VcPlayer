@@ -120,7 +120,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Dark_XMusic_Bot"
+        user.first_name = "ALONE"
     usar = user
     wew = usar.id
     try:
@@ -225,7 +225,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="",
-                            url=f"https://t.me/World_FriendShip_Zone")
+                            url=f"https://t.me/ALONE_SUPPORT")
 
                 ]
             ]
@@ -241,7 +241,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="",
-                            url=f"https://t.me/World_FriendShip_Zone")
+                            url=f"https://t.me/ALONE_SUPPORT")
 
                 ]
             ]
