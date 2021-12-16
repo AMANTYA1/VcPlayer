@@ -11,12 +11,12 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/PRONOI/ALONE-PLAYER/fork">
-    <img src="https://img.shields.io/github/forks/PRONOI/ALONE-PLAYER?label=Fork&style=social">
+  <a href="https://github.com/PRONOI/VcPlayer/fork">
+    <img src="https://img.shields.io/github/forks/PRONOI/VcPlayer?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/PRONOI/ALONE-PLAYER">
-    <img src="https://img.shields.io/github/stars/PRONOI/ALONE-PLAYER?style=social">
+  <a href="https://github.com/PRONOI/VcPlayer">
+    <img src="https://img.shields.io/github/stars/PRONOI/VcPlayer?style=social">
   </a>
 </p>
 
