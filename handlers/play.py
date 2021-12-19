@@ -10,7 +10,7 @@ from pyrogram.errors import UserAlreadyParticipant
 from modules.cache.admins import set
 from modules.callsmusic import callsmusic, queues
 from modules.callsmusic.callsmusic import client as USER
-from modules.helpers.admins import get_administrators
+from modules.helper.admins import get_administrators
 import requests
 import aiohttp
 import yt_dlp
@@ -19,12 +19,12 @@ from modules import converter
 from modules.downloaders import youtube
 from modules.config import DURATION_LIMIT, que, SUDO_USERS
 from modules.cache.admins import admins as a
-from modules.helpers.filters import command, other_filters
-from modules.helpers.command import commandpro
-from modules.helpers.decorators import errors, authorized_users_only
-from modules.helpers.errors import DurationLimitError
-from modules.helpers.gets import get_url, get_file_name
-from modules.helpers.channelmusic import get_chat_id
+from modules.helper.filters import command, other_filters
+from modules.helper.command import commandpro
+from modules.helper.decorators import errors, authorized_users_only
+from modules.helper.errors import DurationLimitError
+from modules.helper.gets import get_url, get_file_name
+from modules.helper.channelmusic import get_chat_id
 import aiofiles
 import ffmpeg
 from PIL import Image, ImageFont, ImageDraw
