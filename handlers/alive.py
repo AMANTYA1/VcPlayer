@@ -36,13 +36,13 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/e5f8072af8b13ccb1628a.jpg",
+        photo=f"https://telegra.ph/file/adbd52b61f2cc81649226.jpg",
         caption=f"""**
  ,      
     ...
 
-  : [  ](https://t.me/ALONExSAD_BiO)
-  : [  ](https://t.me/ALONExSAD_BiO)
+  : [  ](https://t.me/Dil_Dosti_Dua)
+  : [  ](https://t.me/Dil_Dosti_Dua)
     : [ ](https://t.me/ALONExBOY)
 
 **""",
@@ -61,7 +61,7 @@ async def start_(client: Client, message: Message):
 @Client.on_message(commandpro(["/start", "/alive", "Alone"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/e5f8072af8b13ccb1628a.jpg",
+        photo=f"https://telegra.ph/file/adbd52b61f2cc81649226.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
