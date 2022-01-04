@@ -176,7 +176,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://telegra.ph/file/e5f8072af8b13ccb1628a.jpg"
+        thumb_name = "https://telegra.ph/file/adbd52b61f2cc81649226.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -225,7 +225,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="",
-                            url=f"https://t.me/ALONE_SUPPORT")
+                            url=f"https://t.me/Dil_Dosti_Dua")
 
                 ]
             ]
@@ -233,7 +233,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/38fabea31f8779f2e1f9d.jpg"
+            thumb_name = "https://telegra.ph/file/adbd52b61f2cc81649226.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -241,7 +241,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="",
-                            url=f"https://t.me/ALONE_SUPPORT")
+                            url=f"https://t.me/Dil_Dosti_Dua")
 
                 ]
             ]
@@ -347,7 +347,7 @@ async def play(_, message: Message):
 async def pause(_, message: Message):
     await callsmusic.pytgcalls.pause_stream(message.chat.id)
     await message.reply_photo(
-                             photo="https://telegra.ph/file/e5f8072af8b13ccb1628a.jpg", 
+                             photo="https://telegra.ph/file/adbd52b61f2cc81649226.jpg", 
                              caption="**x \n    ...**"
     )
 
@@ -358,7 +358,7 @@ async def pause(_, message: Message):
 async def resume(_, message: Message):
     await callsmusic.pytgcalls.resume_stream(message.chat.id)
     await message.reply_photo(
-                             photo="hhttps://telegra.ph/file/e5f8072af8b13ccb1628a.jpg", 
+                             photo="hhttps://telegra.ph/file/adbd52b61f2cc81649226.jpg", 
                              caption="**x \n    ...**"
     )
 
@@ -392,7 +392,7 @@ async def skip(_, message: Message):
                 )
 
     await message.reply_photo(
-                             photo="https://telegra.ph/file/e5f8072af8b13ccb1628a.jpg  \n   ...**'
+                             photo="https://telegra.ph/file/adbd52b61f2cc81649226.jpg  \n   ...**'
    ) 
 
 
@@ -407,7 +407,7 @@ async def stop(_, message: Message):
 
     await callsmusic.pytgcalls.leave_group_call(message.chat.id)
     await message.reply_photo(
-                             photo="https://telegra.ph/file/e5f8072af8b13ccb1628a.jpg", 
+                             photo="https://telegra.ph/file/adbd52b61f2cc81649226.jpg", 
                              caption="**x \n    ...**"
     )
 
@@ -425,6 +425,6 @@ async def admincache(client, message: Message):
     )
 
     await message.reply_photo(
-                              photo="https://telegra.ph/file/e5f8072af8b13ccb1628a.jpg",
+                              photo="https://telegra.ph/file/adbd52b61f2cc81649226.jpg",
                               caption="**x \n   ...**"
     )
